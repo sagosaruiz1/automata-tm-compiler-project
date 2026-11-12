@@ -50,6 +50,3 @@ def format_tape(tape, head):
     return symbols_line, marker_line
 
 
-if __name__ == "__main__":
-    #test the code here
-    print("test here")
